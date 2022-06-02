@@ -10,8 +10,14 @@
 <br>
 
 <p><img align="right" src="https://github.com/Ganesha2552/Ganesha2552/blob/main/animation_500_kxa883sd.gif" alt="ganesha2552" /></p>
+Long story short:
+
+🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat
+
 
 -🏦 I'm currently working for an EDiscovery based startup where I make applications using Nodejs, React, Typescript and AWS Serverless       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- 🥅 2022 Goals: Communicate effectively with the team, participate in scrum meetings, design reviews.
 
 - 📫 How to reach me **ganesh.moorthy2552@gmail.com**
 
