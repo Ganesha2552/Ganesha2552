@@ -15,7 +15,7 @@ Long story short:
 🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
 
--🏦 I'm currently working for an EDiscovery based startup where I make applications using Nodejs, React, Typescript and AWS Serverless       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-🏦 I'm currently working for an EDiscovery based startup where I make applications using Nodejs, Nestjs, React, Typescript and AWS Serverless       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🥅 2022 Goals: Communicate effectively with the team, participate in scrum meetings, design reviews.
 
