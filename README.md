@@ -15,7 +15,8 @@ Long story short:
 🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
 
--🏦 I'm currently exploring remote work opportunities where I can leverage my skills in developing applications      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-🏦 I'm currently exploring remote work opportunities where I can leverage my skills in developing applications     
+<a href='mailto:ganesh.moorthy2552@gmail.com'> <img src="https://www.pngfind.com/pngs/m/664-6648603_i-write-for-a-few-places-and-id.png" width="50"></a>
 
 - 🥅 2023 Goals: Contribute more to opensource.
 
