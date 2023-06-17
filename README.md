@@ -15,13 +15,15 @@ Long story short:
 🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
 
--🏦 I'm currently working for an EDiscovery based startup where I make applications using Nodejs, Nestjs, React, Typescript and AWS Serverless       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-🏦 I'm currently exploring remote work opportunities where I can leverage my skills in developing applications      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🥅 2022 Goals: Communicate effectively with the team, participate in scrum meetings, design reviews.
+- 🥅 2023 Goals: Contribute more to opensource.
 
-- 📫 How to reach me **ganesh.moorthy2552@gmail.com**
+- 📫 How to reach me **ganesh.moorthy2552@gmail.com** <a href='https://wa.me/919566721032?text=Hi%20Ganesha%20How%20are%20you%20?'><img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
 
-- 👯 We can connect on <a href="https://www.chess.com/member/ganeshamoorthy2552" target="blank">Chess.com♟</a> to play some games
+- 👯 We can connect on <a href='https://www.chess.com/member/ganeshamoorthy2552'>♟Chess
+<img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating&query=%24.chess_blitz.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fganeshamoorthy2552%2Fstats'/></a>
+to play some games
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
