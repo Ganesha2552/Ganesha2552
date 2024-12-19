@@ -15,16 +15,7 @@ Long story short:
 🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
 
--🏦 I'm currently exploring remote work opportunities where I can leverage my skills in developing applications     
-<a href='mailto:ganesh.moorthy2552@gmail.com'> <img src="https://www.pngfind.com/pngs/m/664-6648603_i-write-for-a-few-places-and-id.png" width="50"></a>
 
-- 🥅 2023 Goals: Contribute more to opensource.
-
-- 📫 How to reach me **ganesh.moorthy2552@gmail.com** <a href='https://wa.me/919566721032?text=Hi%20Ganesha%20How%20are%20you%20?'><img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
-
-- 👯 We can connect on <a href='https://www.chess.com/member/ganeshamoorthy2552'>♟Chess
-<img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating&query=%24.chess_blitz.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fganeshamoorthy2552%2Fstats'/></a>
-to play some games
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
@@ -44,24 +35,7 @@ to play some games
   
 </details>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ganeshamoorthy2552/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="ganesha moorthy" height="30" width="40" /></a>
-  <a href="https://fb.com/ganesha.moorthy" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="ganesha moorthy" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/ganesha.dude/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="ganesha.dude" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/ganesh_moorthy21" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="ganeshamoorthy" height="30" width="40" /></a>
- <a href="https://twitter.com/I_amGanesha" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="I_amGanesha" height="30" width="40" /></a>
-</p>
+
 
 <br>
 
